@@ -314,7 +314,7 @@ I wrote a comprehensive 7-part blog series documenting this project:
 **Your Name**
 - 💼 LinkedIn: [kothagundlarahul](https://linkedin.com/in/kothagundlarahul)
 - 🐙 GitHub: [@RahulKothagundla](https://github.com/RahulKothagundla)
-- 📧 Email: 2024tracker@gmail.com
+- 📧 Email: rahulkothagundla2002@gmail.com
 
 ---
 
@@ -346,7 +346,7 @@ This project demonstrates:
 - ✅ Production deployment
 - ✅ Full-stack development
 
-**Let's connect!** [LinkedIn](https://linkedin.com/in/kothagundlarahul) | [Email](mailto:2024tracker@gmail.com)
+**Let's connect!** [LinkedIn](https://linkedin.com/in/kothagundlarahul) | [Email](mailto:rahulkothagundla2002@gmail.com)
 
 ---
 
