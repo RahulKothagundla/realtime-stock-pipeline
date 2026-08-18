@@ -311,7 +311,7 @@ I wrote a comprehensive 7-part blog series documenting this project:
 
 ## 👤 Author
 
-**Your Name**
+RAHUL KOTHAGUNDLA
 - 💼 LinkedIn: [kothagundlarahul](https://linkedin.com/in/kothagundlarahul)
 - 🐙 GitHub: [@RahulKothagundla](https://github.com/RahulKothagundla)
 - 📧 Email: rahulkothagundla2002@gmail.com
